@@ -1,0 +1,13 @@
+The data reveals several notable trends in both contract volume and award amounts over the period.  I select the range of contract from 2010 to 2029 do analysis. Contract volume remained relatively stable between 2010 and 2020, fluctuating moderately between approximately 2,000 and 4,000 contracts per year. There were significant spikes in contract numbers around 2015, 2018, and especially 2021, where the total exceeded 4,000 contracts. However, from 2022 onward, there is a sharp decline, with contract volume dropping below 500 per year after 2025 and remaining flat through 2029.
+
+Award amounts followed a similar pattern of stability and fluctuation. Between 2010 and 2018, annual award values ranged from $3 billion to $5 billion, with only minor year-to-year changes. Major spikes occurred in 2019 and 2023, with award amounts peaking near $9–10 billion. After 2024, there is a steep decline, and award amounts remain very low and flat from 2026 onward. These spikes and declines may be explained by one-time programs or projects, such as large infrastructure or defense initiatives, bulk contract renewals or extensions, and extraordinary events like COVID-19 recovery spending.
+
+Departmental analysis shows that the Chicago Department of Aviation, Department of Transportation, and Department of Finance are the top spenders, each awarding contracts worth over $18 billion. Other departments, such as Water Management and Family and Support Services, also contribute significantly to total contract spending.
+
+There is a weak positive correlation (coefficient = 0.26) between award amount and contract duration, suggesting that higher spending is only slightly associated with longer contracts. This indicates that while some large contracts may last longer, many high-value contracts are not necessarily extended over long periods.
+
+From a risk perspective, heavy reliance on a few vendors can create supply chain vulnerabilities and reduce bargaining power, as dominant vendors may negotiate more favorable terms for themselves. High-value or frequent vendors also require closer compliance monitoring to prevent fraud or favoritism. On the other hand, concentrating spend with key vendors can offer opportunities for volume discounts, strategic partnerships, and more effective performance management.
+
+In summary, analyzing vendor and contract trends helps organizations manage risk, negotiate better deals, and build stronger supplier relationships. However, it is essential to maintain oversight and diversify procurement to avoid over-dependence and ensure competitive practices.
+
+Please find chart and data plot at my github https://github.com/MinhTriPhong/Data-Engineer-Competency-Test
