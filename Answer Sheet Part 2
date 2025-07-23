@@ -1,0 +1,49 @@
+1. Cost Efficiency Ratio
+Define: The Cost Efficiency Ratio measures the contract cost per day by dividing the total award amount by the contract duration in days.
+
+Justification :
+This ratio allows direct comparison between different contracts by showing how much is spent per day. It helps identify the best deals and supports smarter budget decisions across all vendor agreements.
+
+Intended Audience: Procurement Managers,Financial Analysts, Department Heads
+
+Recommended Filters: Contract Duration, Contract Type, Department Filter
+
+2. Time to Renewal
+Define: Time to Renewal measures the days remaining until a contract requires renewal action, calculated as End Date - Current Date.
+Justification: 
+Prevents service disruptions by highlighting contracts requiring immediate attention
+
+
+	3. Number of Vendors
+Define:Tracking management vendors in selected time
+Justification:
+Tracking the number of vendors is essential for effective procurement management because it directly impacts supplier consolidation efforts and negotiating power.
+
+	4. Vendor Performance:
+DefineTracking the performance base on award amount.
+Justification: Total vaule of award amount will tell the performance of vendor. If negative it is bad else good.
+
+	5. Department Spending Distribution
+Define:A breakdown of total contract values by department, showing how much each part of the organization spends on vendors.
+Justification:
+This metric shows which departments use the most vendor services and helps identify spending patterns
+
+
+Chart should use:
+Contract Type Pie Chart
+Contract Renewal Calendar Heatmap
+Spending by Department Bar Chart
+Vendor Count by Department
+Line chart cost of vender by time 
+
+Intended Audience:Procurement Managers,Financial Analysts, Department Heads etc.
+
+Recommended Filters: Contract Duration, Contract Type, Department Filter
+
+Drill-Down
+Contract Details
+Vendor Performance
+Renewal History
+
+
+Details visualize at: https://github.com/MinhTriPhong/Data-Engineer-Competency-Test
