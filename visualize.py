@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 
-df = pd.read_csv('Competency_Test_Contracts_20250721_rf_predicted.csv')
+df = pd.read_csv('Competency_Test_Contracts_20250721_knn_predicted.csv')
 
 df['Start Date'] = pd.to_datetime(df['Start Date'])
 df['End Date'] = pd.to_datetime(df['End Date'])
