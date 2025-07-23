@@ -1,2 +1,4 @@
 # Data-Engineer-Competency-Test
-a repo for my application to STEMS VN
+Cleaning and Transformation is answer for first part
+
+Visualize is answer for second parts 
