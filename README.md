@@ -2,3 +2,6 @@
 Cleaning and Transformation is answer for first part
 
 Visualize is answer for second parts 
+
+#Visualize
+![Dashboard Chart](image.png)
