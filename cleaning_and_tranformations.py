@@ -81,4 +81,4 @@ data_frame['Has Negative Modification'] = data_frame['Award Amount'] < 0
 
 # Save the processed data
 
-data_frame.to_csv('Competency_Test_Contracts_20250721_rf_predicted.csv', index=False)
+data_frame.to_csv('Competency_Test_Contracts_20250721_knn_predicted.csv', index=False)
