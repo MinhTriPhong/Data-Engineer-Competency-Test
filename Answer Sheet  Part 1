@@ -7,7 +7,7 @@ import numpy as np
 data_frame = pd.read_csv('Competency_Test_Contracts_20250721.csv')
 
 #1 Data Cleaning
-# 1.1 Fill null values in 'Contract Type', 'Department' and dates fields 
+# 1.1 Fill null values in 'Contract Type', 'Department' and dates fields by using KNN to predictions  
 # Identify rows with missing values
 missing_contract_type = data_frame['Contract Type'].isna()
 missing_department = data_frame['Department'].isna()
